@@ -16,3 +16,5 @@ This design uses an accelerometer to measure displacement for protection against
 * 2N3904 Transistor
 * 220-1k Ohm Resistor
 * Push button x2
+
+![Project Schematic](Mbed Project Schematic.png)
