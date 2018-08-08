@@ -17,4 +17,7 @@ This design uses an accelerometer to measure displacement for protection against
 * 220-1k Ohm Resistor
 * Push button x2
 
+## Project Schematic
+The schematic below doesn't include the second Mbed and its connections. It is much simpler than the first but if you are still facing issues, please shoot me an email at 'sarthkbatra1993@gmail.com'
+
 ![Project Schematic](MbedProjectSchematic.png)
